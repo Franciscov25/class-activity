@@ -1,2 +1,2 @@
 # class-activity
-Activity performed to train html and css in tech college (Senac).
+Activity performed to train html in tech college (Senac).
